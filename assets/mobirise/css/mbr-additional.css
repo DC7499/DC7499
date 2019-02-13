@@ -1719,7 +1719,10 @@ body {
 }
 .cid-rhZ983E2td .mbr-text,
 .cid-rhZ983E2td .mbr-section-btn {
-  text-align: right;
+  text-align: center;
+}
+.cid-rhZ983E2td .mbr-section-title {
+  text-align: center;
 }
 .cid-rhZfWlBWw4 {
   padding-top: 15px;
@@ -1731,6 +1734,7 @@ body {
 }
 .cid-rhZfWlBWw4 .mbr-text {
   color: #efefef;
+  text-align: center;
 }
 .cid-rhZfWlBWw4 .card {
   display: -webkit-flex;
@@ -1812,6 +1816,7 @@ body {
 }
 .cid-rhZfWlBWw4 .card-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-r8QSnrE8Qu {
   padding-top: 90px;
